@@ -15,7 +15,7 @@ The "Penguin" project is a captivating addition to the FreeCodeCamp.org Responsi
 - CSS3
 
 ## Usage
-Interact with the animated penguin by accessing the live demo [here](penguin-99.netlify.app/ ).
+Interact with the animated penguin by accessing the live demo [here](https://penguin-99.netlify.app/).
 
 ## How to Contribute
 Contributions aimed at enhancing the project's animation effects, improving responsiveness, or adding new features are encouraged. Fork this repository, implement your changes, and submit a pull request for review.
